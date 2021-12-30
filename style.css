@@ -45,15 +45,13 @@ h1 {
 .upgrades {
     border: 5px solid black;
     padding: 10px;
+    min-height: 3ex;
 }
 .right :nth-child(1) {
     border-bottom: 0;
 }
 h3 {
     margin: 0;
-}
-.upgrades {
-    height: 3ex;
 }
 .upgrades a {
     display: flex;
