@@ -18,7 +18,7 @@ const checkAmount = () => {
 setInterval(checkAmount, 1);
 
 const abuse = document.querySelector(`.abuses`);
-let abuses = ["Zaraz Ci walnę jak będziesz tak wolno klikał!", "W łeb Ci strzelę jak jeszcze raz tak klikniesz!", "Jak tam przyjdę i Ci kopa zasadzę za takie klikanie...!"];
+let abuses = ["Klikaj szybciej!", "Nigdy się nie rozwiniesz jak będzesz tak wolno klikał!", "Kto cię tego nauczył?!", "Musisz nabrać lepszych nawyków"];
 let i = 0;
 
 const changeAbuse = () => {
